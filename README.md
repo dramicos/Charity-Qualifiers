@@ -22,5 +22,5 @@ It seems no matter the parameters I change I cannot even get to 74%. I have trie
 
 ## References
 
-1. Reduced dataset from [Orinda Longitudinal Study of Myopia conducted by the US National Eye Institute](https://clinicaltrials.gov/ct2/show/NCT00000169)
+
 1. https://scikit-learn.org/ user guide for information on models/tools.
